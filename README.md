@@ -8,7 +8,7 @@ Forked from [Guidebook/HideShowPasswordTextField](https://github.com/Guidebook/H
 
 ## Installation
 ### Cocoapods
-`pod 'HideShowPasswordTextField', :git => 'https://github.com/Guidebook/HideShowPasswordTextField'`
+`pod 'HideShowPasswordTextField', :git => 'https://github.com/s0n9y3/HideShowPasswordTextField'`
 
 ### Manual
 Just add the files in `HideShowPasswordTextField/` to your project.
