@@ -1,8 +1,8 @@
+# 一个能够控制显示或隐藏密码的文本输入框
 # HideShowPasswordTextField
 An easy to use `UITextField` subclass that adds a visibility toggle and an optional validation checkmark
 
-
-Created by [@lookatpete](https://twitter.com/lookatpete) (product), [@pklada](https://twitter.com/pklada) (design), and [@miketsprague](https://twitter.com/miketsprague) (code)
+Forked from [Guidebook/HideShowPasswordTextField](https://github.com/Guidebook/HideShowPasswordTextField)
 
 ![gif](https://s3.amazonaws.com/f.cl.ly/items/1E3Y19383s3J3g0b2Y0M/password_gif.gif?v=fc97ac97)
 
